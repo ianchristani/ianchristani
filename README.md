@@ -1,6 +1,6 @@
 ### Hello visitor!
 
-Here go feww words about me:
+Here go few words about me:
 
 - I’m currently working as Python Developer
 - I’m currently learning JS
