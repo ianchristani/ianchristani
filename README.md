@@ -6,6 +6,7 @@ Here go few words about me:
 - I’m currently learning JS
 - I’m looking to collaborate on every help request
 - Always studing
+- my website: https://ianchristani.github.io/
 
 <div>
   <a href="https://github.com/ianchristani">
