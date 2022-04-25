@@ -4,7 +4,6 @@ Here go few words about me:
 
 - I’m currently working as **Python Developer**
 - I’m currently learning **Angular framework**
-- I’m looking to collaborate on every help request
 - Always studing
 - my website: https://ianchristani.github.io/
 
