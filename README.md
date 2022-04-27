@@ -24,7 +24,7 @@ Here go few words about me:
   <img align="center" alt="Jquery" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
   <img align="center" alt="bootstrap" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Wordpress" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
-  <img align="center" alt="Django" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg">
+  <img align="center" alt="Django" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="Python" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="bash" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
   <img align="center" alt="Debian" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
