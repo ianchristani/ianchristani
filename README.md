@@ -3,7 +3,7 @@
 Here go few words about me:
 
 - I’m currently working as **Python Developer**
-- I’m currently learning **Angular framework** and JAVA
+- I’m currently learning **Angular framework** and **JAVA**
 - Always studing
 - my website: https://ianchristani.github.io/
 
