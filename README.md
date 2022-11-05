@@ -2,7 +2,7 @@
 
 Here go few words about me:
 
-- I’m currently working as **Python Developer**
+- I’m currently working as **Software Engineer**
 - I’m currently learning **React Librabry**
 - Always studing
 - my website: https://ianchristani.github.io/
