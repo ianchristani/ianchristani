@@ -28,7 +28,7 @@ Here go few words about me:
   <img align="center" alt="Python" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="bash" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
   <img align="center" alt="Debian" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
-  <img align="center" alt="windows" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/react-original.svg">
+  <img align="center" alt="react" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="Docker" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img align="center" alt="Jupyter" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="Figma" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
