@@ -3,7 +3,7 @@
 Here go few words about me:
 
 - I’m currently working as **Python Developer**
-- I’m currently learning **Angular framework**
+- I’m currently learning **React Librabry**
 - Always studing
 - my website: https://ianchristani.github.io/
 
@@ -28,7 +28,7 @@ Here go few words about me:
   <img align="center" alt="Python" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="bash" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
   <img align="center" alt="Debian" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
-  <img align="center" alt="windows" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="windows" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/react-original.svg">
   <img align="center" alt="Docker" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img align="center" alt="Jupyter" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="Figma" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
