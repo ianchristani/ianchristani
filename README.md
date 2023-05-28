@@ -34,6 +34,7 @@ Here go few words about me:
   <img align="center" alt="Figma" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
   <img align="center" alt="Trello" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg ">
   <img align="center" alt="MySQL" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="MySQL" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg">
   
 </div>
   
