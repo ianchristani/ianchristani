@@ -3,7 +3,7 @@
 Here go few words about me:
 
 - I’m currently working as **Software Engineer**
-- I’m currently learning **React Librabry**
+- I’m currently learning **Java**
 - Always studing
 - my website: https://ianchristani.github.io/
 
