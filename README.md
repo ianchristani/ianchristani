@@ -18,24 +18,22 @@ Here go few words about me:
   
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ts" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  
-  <img align="center" alt="Js" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  
+  <img align="center" alt="CSS" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+  <img align="center" alt="Js" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">  
   <img align="center" alt="Jquery" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
   <img align="center" alt="bootstrap" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Wordpress" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
   <img align="center" alt="Django" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="Python" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="bash" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
+
+  <img align="center" alt="bash" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  
   <img align="center" alt="Debian" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
   <img align="center" alt="react" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="nodejs" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Docker" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img align="center" alt="Jupyter" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="Figma" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Trello" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg ">
   <img align="center" alt="MySQL" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MySQL" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg">
   
