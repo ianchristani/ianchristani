@@ -26,15 +26,14 @@ Here go few words about me:
   <img align="center" alt="Django" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="Python" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="bash" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
-
-  <img align="center" alt="bash" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  
+  <img align="center" alt="bash" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">  
   <img align="center" alt="Debian" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
   <img align="center" alt="react" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="nodejs" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Docker" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img align="center" alt="Jupyter" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="MySQL" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="MySQL" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original.svg">
   <img align="center" alt="MySQL" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg">
   
 </div>
