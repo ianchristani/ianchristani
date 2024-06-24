@@ -9,13 +9,12 @@ I am enthusiastic enough to spend time on topics related to cybersecurity.
   
   ##
   
-  ### Tecnologies I like:
+  ### Some tecnologies I like:
   
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   <img align="center" alt="Js" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="bootstrap" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Python" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="bash" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
   <img align="center" alt="bash" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">  
@@ -25,7 +24,10 @@ I am enthusiastic enough to spend time on topics related to cybersecurity.
   <img align="center" alt="MySQL" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MySQL" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original.svg">
   <img align="center" alt="MySQL" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg">
-  <img align="center" alt="MySQL" height="40" width="52" src="https://github.com/devicons/devicon/blob/master/icons/kali/kali-original.svg">
+  <img align="center" alt="MySQL" height="40" width="52" src="https://github.com/devicons/devicon/tree/master/icons/apache/apache-original.svg">
+  <img align="center" alt="MySQL" height="40" width="52" src="https://github.com/devicons/devicon/tree/master/icons/fastapi/fastapi-original.svg">
+  <img align="center" alt="MySQL" height="40" width="52" src="https://github.com/devicons/devicon/tree/master/icons/firefox/firefox-original.svg">
+  <img align="center" alt="MySQL" height="40" width="52" src="https://github.com/devicons/devicon/tree/master/icons/nginx/nginx-original.svg">
   
 </div>
   
